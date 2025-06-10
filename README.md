@@ -32,7 +32,8 @@ No external packages are required beyond the Python standard library.
 1. **Clone the repository** (if not already done):
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Module-2-Programming-Homework-2.git
+   
    cd Algorithms-for-DNA-Sequencing-Module-2-Programming-Homework-2
    ```
 
